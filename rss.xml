@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Raspberry Jam Guitars]]></title>
+        <description><![CDATA[Raspberry Jam Guitars]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 09:36:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indistinct teaser of a brace of Gravitas "Long Necks". These have an eye watering 727 MM. scale length and a 70 gauge low E! ]]></title>
+            <description><![CDATA[<article><h1>Indistinct teaser of a brace of Gravitas "Long Necks". These have an eye watering 727 MM. scale length and a 70 gauge low E! </h1><p>Indistinct teaser of a brace of Gravitas "Long Necks". These have an eye watering 727 MM. scale length and a 70 gauge low E!</p></article>]]></description>
+            <link>undefinedindistinct-teaser-of-a-brace-of-gravitas-long-necks-these/index.html</link>
+            <guid isPermaLink="false">c97ee1b7-595a-4a67-862b-ddf386f97c99</guid>
+            <pubDate>Sun, 03 Apr 2016 09:36:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
