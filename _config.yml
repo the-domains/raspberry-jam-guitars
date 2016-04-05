@@ -1,14 +1,26 @@
-layout_spectrum: 0.1627282
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9081632
 color:
   saturation: 0.6503759
-  lightness: 0.4377014
   brandStrength: 0.5708791
+  rhythmicContrast: 0.3893662
   brandColors:
     - '#E9E6CF'
     - '#171617'
     - '#77391F'
     - '#E93944'
     - '#DFB490'
-  rhythmicContrast: 0.3893662
+  lightness: 0.4377014
+layout_spectrum: 0.5171858
 name: Raspberry Jam Guitars
